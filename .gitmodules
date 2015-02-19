@@ -1,0 +1,3 @@
+[submodule "kanjipairs_html"]
+	path = kanjipairs_html
+	url = git@github.com:Kanmuri/kanjipairs_html.git
